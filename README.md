@@ -8,13 +8,13 @@
 
 使用Google浏览器进入有道翻译官网，按F12或者右击选择菜单中的“检查”，选择“Nerwork”，再选择XHR，如下图1所示。
 
-![avatar](https://github.com/jafer11/youdao_translate/images/图1.png)
+![avatar](https://github.com/jafer11/youdao_translate/raw/main/images/图1.png)
 
 ### 第二步发送请求获取XHR数据包
 
 在左侧框数据“hello”，敲击回车。就可以看到异步请求包，如下图所示。
 
-![avatar](https://github.com/jafer11/youdao_translate/images/图2.png)
+![avatar](https://github.com/jafer11/youdao_translate/raw/main/images/图2.png)
 
 ### 第三步点击XHR数据包，分析数据
 
